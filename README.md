@@ -4,9 +4,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,d3,nodejs,yarn)](https://skillicons.dev)
 
-
-- tools
-
 [![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,docker)](https://skillicons.dev)
 
 
