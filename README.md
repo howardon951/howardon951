@@ -1,14 +1,17 @@
 ## Hi there 👋
 
 - web development
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,d3)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,vue,d3,nodejs,yarn)](https://skillicons.dev)
 
 
 - tools
-[![My Skills](https://skillicons.dev/icons?i=git,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=github,gitlab,vscode,docker)](https://skillicons.dev)
 
 
 - digital art
+
 [![My Skills](https://skillicons.dev/icons?i=ableton,p5js)](https://skillicons.dev)
 
 <!--
